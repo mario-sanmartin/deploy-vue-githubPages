@@ -1,5 +1,5 @@
 # fend
-
+chmod +x deploy.sh para que el archivo creado tenga los permisos neceasrios.
 ## Project setup
 ```
 npm install
